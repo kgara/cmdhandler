@@ -1,0 +1,19 @@
+[
+    {"Command":{"Action":3},"Times":1},
+    {"Command":{"Action":0,"Key":"key1","Value":"value1"},"Times":1},
+    {"Command":{"Action":0,"Key":"key2","Value":"value2"},"Times":1},
+    {"Command":{"Action":0,"Key":"key3","Value":"value3"},"Times":1},
+    {"Command":{"Action":0,"Key":"key1","Value":"value4"},"Times":2},
+    {"Command":{"Action":2,"Key":"key3"},"Times":3},
+    {"Command":{"Action":2,"Key":"nonexistent"},"Times":2},
+    {"Command":{"Action":3},"Times":1},
+    {"Command":{"Action":1,"Key":"nonexistent"},"Times":1},
+    {"Command":{"Action":3},"Times":1},
+    {"Command":{"Action":1,"Key":"key2"},"Times":1},
+    {"Command":{"Action":3},"Times":1},
+    {"Command":{"Action":2,"Key":"key2"},"Times":1},
+    {"Command":{"Action":0,"Key":"key4","Value":"value4"},"Times":1},
+    {"Command":{"Action":3},"Times":1},
+    {"Command":{"Action":1,"Key":"key1"},"Times":1},
+    {"Command":{"Action":3},"Times":1}
+]
